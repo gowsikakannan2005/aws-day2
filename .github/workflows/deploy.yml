@@ -52,4 +52,4 @@ jobs:
             --name aws-cicd-container \
             -p 80:80 \
             --restart always \
-             gowsik005/fsd:latest
+            gowsik005/fsd:latest
